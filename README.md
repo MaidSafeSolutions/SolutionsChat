@@ -1,18 +1,12 @@
-# SecretChat
-SAFE Network Chat WebApp based on our SAFE-FS Demo App built with safe-js
+# SolutionsChat
+SAFE Network Chat WebApp based by SAFE-FS, built with safe-js library
 
-View it live at <a href="http://">safe://chat.wom5</a>
+MaidSafe Solutions-sponsored Chat WebApp.
 
-Secret messenger for you and whoever you invite.
+Allows completely end-to-end encrypted chat with Launcher.
 
-Start conversations by making new accounts in SAFE Launcher, and sharing login details with those you wish to chat with.
+Both participants in the conversation must be logged into the same Launcher account.
 
-To chat, login to a shared account with Launcher and navigate to safe://chat.wom5
-
-Everyone who is logged into the same account can see the messages being sent.
-
-ToDo:
- - learn how to use SD / AD and make a scrollbox with message history
- - finish the "rooms" page, where people can share & list login data
+View it live at: <a href="http://bit.do/SolutionsChat" target="_blank">bit.do/SolutionsChat</a>
 
 Thanks! Start chatting now!
